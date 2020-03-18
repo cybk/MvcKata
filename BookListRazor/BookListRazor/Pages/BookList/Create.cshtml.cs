@@ -32,10 +32,8 @@ namespace BookListRazor
                 await _db.SaveChangesAsync();
                 return RedirectToPage("Index");
             }
-            else
-            {
-                return Page();
-            }
+            
+            return Page();
         }
     }
 }
