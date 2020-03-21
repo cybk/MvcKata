@@ -7,3 +7,6 @@
 /BookListRazor/BookListRazor/bin/Debug/netcoreapp3.1
 /BookListRazor/.vs/BookListRazor
 /BookListRazor/BookListRazor/BookListRazor.csproj.user
+/BookListRazor/BulkyBook/bin/Debug/netcoreapp3.1
+/BookListRazor/BulkyBook/obj
+/BookListRazor/BulkyBook/wwwroot
