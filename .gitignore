@@ -10,3 +10,9 @@
 /BookListRazor/BulkyBook/bin/Debug/netcoreapp3.1
 /BookListRazor/BulkyBook/obj
 /BookListRazor/BulkyBook/wwwroot
+/BookListRazor/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1
+/BookListRazor/BulkyBook.DataAccess/obj
+/BookListRazor/BulkyBook.Models/bin/Debug/netcoreapp3.1
+/BookListRazor/BulkyBook.Models/obj
+/BookListRazor/BulkyBook.Utility/bin/Debug/netcoreapp3.1
+/BookListRazor/BulkyBook.Utility/obj
